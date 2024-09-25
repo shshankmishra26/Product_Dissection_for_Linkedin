@@ -13,9 +13,9 @@ LinkedIn, a leading social media platform, has not only revolutionized the way w
 
 ## Problem 1: Increasing User Engagement
 
-Real-World Challenge : LinkedIn noticed a decline in user engagement, with many users passively browsing their feed without actively participating in discussions or posting updates.
+### Real-World Challenge : LinkedIn noticed a decline in user engagement, with many users passively browsing their feed without actively participating in discussions or posting updates.
 
-LinkedIn’s Solution : LinkedIn introduced the "Creator Mode," which allows users to highlight their expertise by adding tags to their profiles and content. This encourages users to share more content, engage in conversations, and establish themselves as thought leaders in their industries.
+### LinkedIn’s Solution : LinkedIn introduced the "Creator Mode," which allows users to highlight their expertise by adding tags to their profiles and content. This encourages users to share more content, engage in conversations, and establish themselves as thought leaders in their industries.
 
 ## Problem 2: Inaccurate Job Recommendations
 
