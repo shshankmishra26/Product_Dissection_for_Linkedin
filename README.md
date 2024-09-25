@@ -7,26 +7,36 @@
 
 Welcome to this case study on dissecting and designing products for top leading platforms. In this case study, you will delve into the intriguing world of schema design for a prominent platform of your choice. Your task is to choose a top leading platform, research its features, and meticulously craft a schema design that encapsulates the essence of its functionality. By focusing on key entities, attributes, and relationships, you will gain invaluable insights into how data architecture drives the platform's effectiveness.
 
-## Step 1: Choose a Leading Platform
-Select a leading platform of your choice, which could span various domains such as social media, e-commerce, finance, or any other industry. This choice will form the foundation of your exploration into its schema design.
+Case Study: Real-World Problems and LinkedIn's Innovative Solutions
 
-## Step 2: Research:
-Thoroughly research the platform you have selected. Investigate its core features, functionalities, and user interactions. Identify the top features that define its user experience and contribute significantly to its popularity.
+LinkedIn, a leading social media platform, has not only revolutionized the way we share and consume content but has also addressed significant real-world challenges through its innovative features. By identifying user needs and leveraging technology, IinkedIn has positioned itself as a solution-driven platform that fosters connections, encourages self-expression, and enhances digital interactions.
 
-# Step 3: Product Dissection and Real World Problems solved by the platform
-In this step, you will meticulously analyse the platform's standout features and how they provide innovative solutions to real-world challenges. By identifying key functionalities that resonate with users, you'll unravel how the platform effectively addresses problems and enhances user experiences. This dissection will serve as the foundation for understanding how the schema design aligns with the platform's core objectives.
+## Problem 1: Increasing User Engagement
 
-# Step 4: Case Study on the real world problems and approach to solving them
-In this pivotal step, you will expand on the real-world challenges uncovered in Step 3 through a comprehensive case study. Delve into specific instances where users encountered difficulties and showcase how the platform's unique features provided effective solutions. By dissecting the approach taken by the platform to overcome these challenges, you'll gain a deeper appreciation for the platform's user-centric design philosophy and how it shapes the schema design.
+Real-World Challenge : LinkedIn noticed a decline in user engagement, with many users passively browsing their feed without actively participating in discussions or posting updates.
 
-# Step 5: Schema Design Based on Top Features
-Based on the features you have identified, craft a schema design that reflects the platform's data structure. Focus on the key entities, attributes, and relationships that underpin the chosen features. Your schema should capture the essence of how the platform organises and utilises its data.
+LinkedIn’s Solution : LinkedIn introduced the "Creator Mode," which allows users to highlight their expertise by adding tags to their profiles and content. This encourages users to share more content, engage in conversations, and establish themselves as thought leaders in their industries.
 
-# Step 6: Rationale Behind the Design
-While creating the schema design, consider the rationale behind the platform's choices. Reflect on why certain entities and relationships were chosen and how they align with the platform's goals. This will help you understand the strategic decisions driving the schema's architecture.
+## Problem 2: Inaccurate Job Recommendations
 
-# Step 7: Create an ER Diagram
-Utilise tools like the Miro platform or similar applications to create an illustrative Entity-Relationship (ER) diagram. This diagram should vividly depict the entities, attributes, and relationships present within your schema design. The ER diagram will serve as a visual representation of your insights.
+Real-World Challenges : Users were often receiving job recommendations that were not relevant to their skills or career goals, leading to frustration.
 
-# Step 8: Presentation of Findings
-Present your findings in a clear and concise manner. Showcase your understanding of how the schema design impacts the platform's functionality and user experience. Explain how your chosen features are integrated into the schema and how the schema's structure supports the platform's objectives.
+LinkedIn’s Solution : LinkedIn leveraged machine learning and AI algorithms to improve job recommendation accuracy. They incorporated user feedback and behavior data to fine-tune the recommendations, resulting in more tailored job suggestions for users.
+
+## Problem 3: Encouraging Diverse Hiring
+
+Real-World Challenge : Many organizations struggled to diversify their workforce, and LinkedIn wanted to play a role in addressing this issue.
+
+LinkedIn’s Solution : LinkedIn introduced a feature that allows companies to anonymize applicant profiles during the initial stages of the hiring process. This helps reduce bias in hiring decisions by focusing on skills and qualifications rather than personal information, leading to more inclusive hiring practices.
+
+## Problem 4: Spam and Inauthentic Profiles
+
+Real-World Challenges : LinkedIn faced an increasing number of fake profiles and spam content, which undermined the platform's credibility.
+
+LinkedIn’s Solution : LinkedIn implemented stricter verification processes for new profiles, including phone number verification and AI-based profile analysis to detect suspicious behavior. They also encouraged users to report suspicious accounts, helping maintain the platform's authenticity and trustworthiness.
+
+These innovative solutions showcase how LinkedIn has addressed real-world challenges to enhance user experience, improve diversity and inclusion, and maintain the integrity of their platform.
+
+# Conclusion:
+
+LinkedIn has addressed various challenges that users encounter in the digital landscape. This case study showcases how linkedIn’s user-centric approach and continuous innovation have positioned it as a leader in the social media domain, effectively shaping the way we engage and interact online.By fostering genuine connections, curating content, supporting creativity, and enabling personal branding, linkedIn has addressed various challenges that users encounter in the digital world.The integration of new features, often driven by user feedback, reflects LinkedIn's dedication to enhancing user experience, supporting professional growth, and maintaining a valuable platform for networking, job searching, and skill development.
