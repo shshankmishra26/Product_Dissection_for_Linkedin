@@ -7,7 +7,7 @@
 
 Welcome to this case study on dissecting and designing products for top leading platforms. In this case study, you will delve into the intriguing world of schema design for a prominent platform of your choice. Your task is to choose a top leading platform, research its features, and meticulously craft a schema design that encapsulates the essence of its functionality. By focusing on key entities, attributes, and relationships, you will gain invaluable insights into how data architecture drives the platform's effectiveness.
 
-Case Study: Real-World Problems and LinkedIn's Innovative Solutions
+# Case Study: Real-World Problems and LinkedIn's Innovative Solutions
 
 LinkedIn, a leading social media platform, has not only revolutionized the way we share and consume content but has also addressed significant real-world challenges through its innovative features. By identifying user needs and leveraging technology, IinkedIn has positioned itself as a solution-driven platform that fosters connections, encourages self-expression, and enhances digital interactions.
 
