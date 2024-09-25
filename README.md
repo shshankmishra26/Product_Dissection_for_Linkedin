@@ -7,10 +7,10 @@
 
 Welcome to this case study on dissecting and designing products for top leading platforms. In this case study, you will delve into the intriguing world of schema design for a prominent platform of your choice. Your task is to choose a top leading platform, research its features, and meticulously craft a schema design that encapsulates the essence of its functionality. By focusing on key entities, attributes, and relationships, you will gain invaluable insights into how data architecture drives the platform's effectiveness.
 
-# Step 1: Choose a Leading Platform
+## Step 1: Choose a Leading Platform
 Select a leading platform of your choice, which could span various domains such as social media, e-commerce, finance, or any other industry. This choice will form the foundation of your exploration into its schema design.
 
-# Step 2: Research:
+## Step 2: Research:
 Thoroughly research the platform you have selected. Investigate its core features, functionalities, and user interactions. Identify the top features that define its user experience and contribute significantly to its popularity.
 
 # Step 3: Product Dissection and Real World Problems solved by the platform
